@@ -1,0 +1,22 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    color: #48BCEC;
+}
+
+h2 {
+    color: #48BCEC;
+}
+
+.intro {
+    font-size: 18px;
+}
+
+p {
+    font-size: 14px;
+}
+a {
+    text-decoration: none;
+}
